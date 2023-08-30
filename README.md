@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cuauhtemoc74
 - 👀 I’m interested in digital integrated circuit design
-- 🌱 I’m currently learning some open source microprocessors
+- 🌱 I’m currently implementing some open source microprocessors
 - 💞️ I’m looking to collaborate on smart sensors and SOC implementations.
 - 📫 How to reach me: cuauhtemoc@iteso.mx
 
